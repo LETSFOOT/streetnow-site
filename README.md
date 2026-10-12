@@ -2,7 +2,7 @@
 
 An English/French, responsive, dependency-free static website for StreetNow, an independent mobile football project developed in Bordeaux, France.
 
-Public website: https://letsfoot.github.io/streetnow-site/
+Public website: https://streetnow.fr/
 
 ## Hosting
 
@@ -18,4 +18,4 @@ The icon in `assets/` is copied from the existing StreetNow branding asset. The 
 
 ## Domain
 
-No custom domain or DNS changes were made. Do not add a CNAME or change DNS until domain configuration is explicitly approved. Existing mail and Resend DNS records must be preserved.
+Custom domain: `streetnow.fr`, configured after explicit approval. The DNS change is limited to web records and preserves the former FTP destination. Existing mail, Resend and Supabase configurations are preserved. HTTPS is enabled when GitHub Pages has issued the certificate.
