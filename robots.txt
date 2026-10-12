@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsfoot.github.io/streetnow-site/sitemap.xml
